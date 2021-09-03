@@ -10,12 +10,12 @@
   ターミナルでmain.pyを実行  
   
 # 機能
- ・ブラウザ操作
+ ・ブラウザ操作  
  ・画像認識
  
 # 技術
- ・Python 2.7.16
- ・Selenium
- ・ChromeDriver
- ・pyocr
+ ・Python 2.7.16  
+ ・Selenium  
+ ・ChromeDriver  
+ ・pyocr  
  ・PIL
